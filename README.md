@@ -1,5 +1,12 @@
 # Python Basics
 
+## Course syllabus
+
+[course wiki](http://wiki.cs.hse.ru/Основы_программирования_на_Python_осень_2022_матфак)
+
+
+## Seminars
+
 
 - Seminar 1. Intro
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Podidiving/math-hse-python/blob/main/sem1_intro.ipynb)

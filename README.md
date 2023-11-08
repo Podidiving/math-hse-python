@@ -22,7 +22,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Podidiving/math-hse-python/blob/main/sem6_functions.ipynb)
 - Seminar 7. Functions, part2
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Podidiving/math-hse-python/blob/main/sem7_functions.ipynb)
-- Seminar 7. Classes, OOP, part1
+- Seminar 8. Classes, OOP, part1
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Podidiving/math-hse-python/blob/main/sem8_oop.ipynb)
-- Seminar 7. Classes, OOP, part2
+- Seminar 9. Classes, OOP, part2
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Podidiving/math-hse-python/blob/main/sem8_oop_2.ipynb)

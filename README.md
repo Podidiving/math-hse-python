@@ -25,4 +25,6 @@
 - Seminar 8. Classes, OOP, part1
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Podidiving/math-hse-python/blob/main/sem8_oop.ipynb)
 - Seminar 9. Classes, OOP, part2
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Podidiving/math-hse-python/blob/main/sem8_oop_2.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Podidiving/math-hse-python/blob/main/sem9_oop_2.ipynb)
+- Seminar 10. Generators, Iterators
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Podidiving/math-hse-python/blob/main/sem10_generators.ipynb)

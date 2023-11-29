@@ -28,5 +28,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Podidiving/math-hse-python/blob/main/sem9_oop_2.ipynb)
 - Seminar 10. Generators, Iterators
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Podidiving/math-hse-python/blob/main/sem10_generators.ipynb)
-- Seminar 10. Decorators, Itertools
+- Seminar 11. Decorators, Itertools
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Podidiving/math-hse-python/blob/main/sem11_decorators_itertools.ipynb)
+- Seminar 12. Numpy, Matplotlib
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Podidiving/math-hse-python/blob/main/sem12_numpy_matplotlib.ipynb)

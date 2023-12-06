@@ -32,3 +32,6 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Podidiving/math-hse-python/blob/main/sem11_decorators_itertools.ipynb)
 - Seminar 12. Numpy, Matplotlib
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Podidiving/math-hse-python/blob/main/sem12_numpy_matplotlib.ipynb)
+- Seminar 12. Matplotlib, Pandas, Seaborn
+    - Part 1: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Podidiving/math-hse-python/blob/main/sem13_part1_matplotlib.ipynb)
+    - Part 2: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Podidiving/math-hse-python/blob/main/sem13_part2_pandas_seaborn.ipynb)

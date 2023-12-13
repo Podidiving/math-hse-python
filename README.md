@@ -35,3 +35,5 @@
 - Seminar 12. Matplotlib, Pandas, Seaborn
     - Part 1: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Podidiving/math-hse-python/blob/main/sem13_part1_matplotlib.ipynb)
     - Part 2: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Podidiving/math-hse-python/blob/main/sem13_part2_pandas_seaborn.ipynb)
+- Seminar 14. Multiprocessing and Threading: 
+[seminar folder](./sem14/)
